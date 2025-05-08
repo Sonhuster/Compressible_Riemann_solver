@@ -13,3 +13,13 @@ Numerical scheme:
   - Reconstruction scheme for primitive variables: 1st order.
   - Convective scheme: ROE's and original AUSM schemes. 
   - 2nd order scheme for diffusion terms.
+
+Result:
+(2) Chanel flow.
+![Velocity U](paraview/image/velocity_u.jpg)
+
+
+![Velocity V](paraview/image/velocity_v.jpg)
+
+
+![Profile U](paraview/image/profile_u.jpg)

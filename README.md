@@ -17,9 +17,5 @@ Numerical scheme:
 Result:
 (2) Chanel flow.
 ![Velocity U](paraview/image/velocity_u.jpg)
-
-
 ![Velocity V](paraview/image/velocity_v.jpg)
-
-
 ![Profile U](paraview/image/profile_u.jpg)

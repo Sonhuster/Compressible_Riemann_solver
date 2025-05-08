@@ -16,7 +16,7 @@ Numerical scheme:
 
 Result:
 
-(2) Chanel flow.
+(2) Chanel flow (Re=100).
 
 <div align="center">
   <img src="paraview/image/velocity_u.jpg" height="300" width="500"/>
@@ -31,7 +31,3 @@ Result:
   <img src="paraview/image/profile_u.jpg" height="300" width="300"/>
 </div>
 
-(1) Airfoil flow
-<div align="center">
-  <img src="paraview/image/airfoil_p.jpg" height="400" width="500"/>
-</div>

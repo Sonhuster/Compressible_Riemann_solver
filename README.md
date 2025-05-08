@@ -15,7 +15,20 @@ Numerical scheme:
   - 2nd order scheme for diffusion terms.
 
 Result:
+
 (2) Chanel flow.
-![Velocity U](paraview/image/velocity_u.jpg)
-![Velocity V](paraview/image/velocity_v.jpg)
-![Profile U](paraview/image/profile_u.jpg)
+
+<div align="center">
+  <img src="paraview/image/velocity_u.jpg" height="120" width="200"/>
+  <img src="paraview/image/velocity_v.jpg" height="120" width="200"/>
+</div>
+
+
+<div align="center">
+  <img src="paraview/image/profile_u.jpg" height="120" width="120"/>
+</div>
+
+(1) Airfoil flow
+<div align="center">
+  <img src="paraview/image/airfoil_p.jpg" height="120" width="150"/>
+</div>
